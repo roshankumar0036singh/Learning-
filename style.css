@@ -308,7 +308,7 @@ Header Style
 
 .header-area .main-nav {
   background: transparent;
-  display: flex
+  display: flex;
 }
 
 .header-area .main-nav .logo {
