@@ -385,8 +385,7 @@ Header Style
   padding-right: 5px;
   height: 40px;
   line-height: 40px;
-  display:flex;
-  flex-direction:row;
+  display:inline-block;
 }
 
 .header-area .main-nav .nav li a {
@@ -653,7 +652,6 @@ Header Style
     background: #fff;
     padding-left: 0px !important;
     padding-right: 0px !important;
-    display:inline-block;
   }
   
 }
