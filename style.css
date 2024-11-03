@@ -385,6 +385,8 @@ Header Style
   padding-right: 5px;
   height: 40px;
   line-height: 40px;
+  display:flex;
+  flex-direction:row;
 }
 
 .header-area .main-nav .nav li a {
